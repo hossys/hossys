@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hossys
-- 👨‍💻 I have a bachelor's degree in physics.
-- 👀 I'm studying biomedical physics for now.
+Software Developer at Axios3D Services GmbH | M.Sc. in Physics
+
 - 📫 reach me at hsaberiansani@gmail.com
 
 <!---
